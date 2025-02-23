@@ -21,6 +21,12 @@
 
 This data analysis project delves into the inpatient and outpatient trends of a hospital from 2018 to 2020. By thoroughly examining patient data across dimensions such as age, gender, department, and time periods, we aim to uncover patterns that have influenced fluctuations in patient care. Our goal is to identify key periods of inpatient and outpatient activity, understand the driving factors, and provide data-driven recommendations that shed light on the dynamics of the healthcare market. Through this comprehensive analysis, we will gain a deeper understanding of the industry's evolution and the elements that have propelled it forward.
 
+![Patient Dashboard Snapshot](https://github.com/user-attachments/assets/46014c2b-e702-4dfa-8606-9eff0c9ca6eb)
+
+![Patient Dashboard 2 Snapshot](https://github.com/user-attachments/assets/9b57c0ce-2f04-49d1-9920-4b25cad9e609)
+
+
+
 ---
 ### Data Sources
 ---
