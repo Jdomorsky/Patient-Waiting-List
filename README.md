@@ -76,6 +76,9 @@ EDA involving exploring the patient data to answer key questions, such as:
     - ```[Avg/Med Wait List = SWITCH(VALUES('Calculation Method'[Calc Method]),"Average",[Average Waiting List],"Median",[Median Waiting List])]```
    - ```[PY Latest Month Wait List = CALCULATE( SUM(All_Data[Total]), VALUE(All_Data[Archive_Date]) =EDATE(MAX(All_Data[Archive_Date]), -12)]```
     - ```[Latest Month Wait List = CALCULATE(SUM(All_Data[Total]), All_Data[Archive_Date] = MAX(All_Data[Archive_Date]))]```
+ 
+- Created an interactive Dashboard; showcasing highly customizeable visuals and metrics.
+- Creaded custom visual templates in Powerpoint.
 
 ---
 ### Results
@@ -94,8 +97,10 @@ The analysis results are summarized as follows:
 Based on the analysis, we recommend the following actions:
 1. Expand Orthopedic Services to Meet High Demand
 Since the orthopedic department has the most patient traffic, it's essential to invest in this area to improve patient care and reduce wait times. Consider hiring additional orthopedic surgeons and support staff to handle the influx of patients. Upgrading equipment and facilities can enhance service quality. Implementing specialized clinics for common orthopedic issues—like joint replacements or sports injuries—can streamline patient flow. By bolstering this department, the hospital can better serve the 16-64 age group, who may be more prone to orthopedic problems due to active lifestyles or workplace injuries.
+
 2. Optimize Outpatient Care and Reduce Waitlists
 With outpatients being the most common patient type and the waitlist increasing from the previous year, it's crucial to streamline outpatient services. Implementing efficient scheduling systems can minimize bottlenecks. Incorporate telemedicine options for consultations and follow-ups to alleviate in-person appointment demand. Reviewing and adjusting staffing levels during peak times can improve throughput. Additionally, analyzing appointment no-show rates and launching reminder systems can ensure maximum utilization of available slots, effectively reducing the waitlist.
+
 3. Develop Targeted Health Programs for the 16-64 Age Group
 Since the majority of patients are within the 16-64 age bracket, tailoring services to their specific health needs can enhance patient satisfaction and outcomes. Launch preventative care programs focusing on lifestyle-related conditions prevalent in this age group, such as cardiovascular health, diabetes management, and mental health services. Collaborate with local businesses and community organizations to promote workplace wellness programs. Educational workshops and health screenings can foster community engagement and position the hospital as a proactive leader in health promotion.
 By addressing these areas, the hospital can improve patient care efficiency, reduce wait times, and cater more effectively to its largest patient demographic. These strategies not only enhance the patient experience but also position the hospital to adapt to evolving healthcare demands.
