@@ -70,6 +70,7 @@ EDA involving exploring the patient data to answer key questions, such as:
 ---
 
 - Concatenated the inpatient and outpatient data.
+- Mapped concatinated data table to Mapping_Specialty table.
 - Created DAX Measures:
    - ```Average Waiting List = AVERAGE(All_Data[Total])```
     - ```[Median Waiting List = MEDIAN(All_Data[Total])]```
