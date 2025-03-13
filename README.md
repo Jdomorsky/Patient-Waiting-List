@@ -1,5 +1,5 @@
 ---
-# Patient Waiting List Analysis
+# **PatientFlow: A Data-Driven Exploration of Inpatient & Outpatient Trends**
 ---
 ## Table of Contents
 ---
